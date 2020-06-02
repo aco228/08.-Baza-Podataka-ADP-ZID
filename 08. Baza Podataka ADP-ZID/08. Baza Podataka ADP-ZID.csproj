@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8A94B63A-AAA1-4553-B028-D10671AC8A31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_08.Baza_Podataka_ADP_ZID</RootNamespace>
+    <AssemblyName>_08.Baza_Podataka_ADP_ZID</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>baza-logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alati\Grupa_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alati\Grupa_Info.Designer.cs">
+      <DependentUpon>Grupa_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alati\grupe_NovaGrupa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alati\grupe_NovaGrupa.Designer.cs">
+      <DependentUpon>grupe_NovaGrupa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alati\homeScreen_sveNapomene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alati\homeScreen_sveNapomene.Designer.cs">
+      <DependentUpon>homeScreen_sveNapomene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alati\Kripcija.cs" />
+    <Compile Include="Alati\pretraga_DodajVolonteraUGrupu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alati\pretraga_DodajVolonteraUGrupu.Designer.cs">
+      <DependentUpon>pretraga_DodajVolonteraUGrupu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baza Podataka\BazaPodataka.cs" />
+    <Compile Include="Baza Podataka\BazaPodataka_Backup.cs" />
+    <Compile Include="Baza Podataka\BazaPodataka_Stara.cs" />
+    <Compile Include="Form_Administracija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Administracija.Designer.cs">
+      <DependentUpon>Form_Administracija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Pomoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Pomoc.Designer.cs">
+      <DependentUpon>Form_Pomoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Sistemska_Podesavanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Sistemska_Podesavanja.Designer.cs">
+      <DependentUpon>Form_Sistemska_Podesavanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Statistika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Statistika.Designer.cs">
+      <DependentUpon>Form_Statistika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grupe_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grupe_Form.Designer.cs">
+      <DependentUpon>Grupe_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Intro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home_Intro.Designer.cs">
+      <DependentUpon>Home_Intro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_Form.Designer.cs">
+      <DependentUpon>Home_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ikone.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ikone.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Novi_Clan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Novi_Clan.Designer.cs">
+      <DependentUpon>Novi_Clan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pretraga_Forma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pretraga_Forma.Designer.cs">
+      <DependentUpon>Pretraga_Forma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resursi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resursi.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Volonter_Dosije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Volonter_Dosije.Designer.cs">
+      <DependentUpon>Volonter_Dosije.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Alati\Grupa_Info.resx">
+      <DependentUpon>Grupa_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alati\grupe_NovaGrupa.resx">
+      <DependentUpon>grupe_NovaGrupa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alati\homeScreen_sveNapomene.resx">
+      <DependentUpon>homeScreen_sveNapomene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alati\pretraga_DodajVolonteraUGrupu.resx">
+      <DependentUpon>pretraga_DodajVolonteraUGrupu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Administracija.resx">
+      <DependentUpon>Form_Administracija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Pomoc.resx">
+      <DependentUpon>Form_Pomoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Sistemska_Podesavanja.resx">
+      <DependentUpon>Form_Sistemska_Podesavanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Statistika.resx">
+      <DependentUpon>Form_Statistika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grupe_Form.resx">
+      <DependentUpon>Grupe_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Intro.resx">
+      <DependentUpon>Home_Intro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_Form.resx">
+      <DependentUpon>Home_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ikone.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Ikone.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Novi_Clan.resx">
+      <DependentUpon>Novi_Clan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pretraga_Forma.resx">
+      <DependentUpon>Pretraga_Forma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Resursi.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resursi.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Volonter_Dosije.resx">
+      <DependentUpon>Volonter_Dosije.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administracija.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grupe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistika.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index_login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index_login_btn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sacuvaj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grupe_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grupe_dell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="baza-logo.ico" />
+    <None Include="Resources\intro_watermark.jpg" />
+    <None Include="Resources\start_pomoc.jpg" />
+    <None Include="Resources\pretraga.jpg" />
+    <None Include="Resources\novi_clan.jpg" />
+    <None Include="Resources\start_waterMark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADOX">
+      <Guid>{00000600-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

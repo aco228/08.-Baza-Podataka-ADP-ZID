@@ -1,0 +1,47 @@
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\bin\Debug\_08.Baza_Podataka_ADP_ZID.exe
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\bin\Debug\_08.Baza_Podataka_ADP_ZID.pdb
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.exe
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.pdb
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Home_Form.resources
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Resursi.resources
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.homeScreen_sveNapomene.resources
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Novi_Clan.resources
+c:\users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Ikone.resources
+C:\Users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Grupe_Form.resources
+C:\Users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Home_Intro.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.grupe_NovaGrupa.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Pretraga_Forma.resources
+C:\Users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Grupa_Info.resources
+C:\Users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.pretraga_DodajVolonteraUGrupu.resources
+C:\Users\win7\documents\visual studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Volonter_Dosije.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Form_Statistika.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Form_Administracija.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\bin\Debug\_08.Baza_Podataka_ADP_ZID.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\bin\Debug\_08.Baza_Podataka_ADP_ZID.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Grupa_Info.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.grupe_NovaGrupa.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.homeScreen_sveNapomene.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.pretraga_DodajVolonteraUGrupu.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Form_Administracija.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Form_Statistika.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Grupe_Form.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Home_Intro.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Home_Form.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Ikone.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Novi_Clan.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Pretraga_Forma.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Properties.Resources.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Resursi.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Volonter_Dosije.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Form_Pomoc.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\_08.Baza_Podataka_ADP_ZID.Form_Sistemska_Podesavanja.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\08. Baza Podataka ADP-ZID.csproj.ResolveComReference.cache
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\08. Baza Podataka ADP-ZID.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2010\Projects\08. Baza Podataka ADP-ZID\08. Baza Podataka ADP-ZID\obj\x86\Debug\08. Baza Podataka ADP-ZID.csproj.GenerateResource.Cache
